@@ -1,0 +1,66 @@
+{
+  "image": "map/china-journey-2560x1800.png",
+  "imageWidth": 2560,
+  "imageHeight": 1800,
+  "imageScale": 2,
+  "viewport": {
+    "centerLng": 114.336,
+    "centerLat": 34.7336,
+    "zoom": 5.26,
+    "widthCss": 1280,
+    "heightCss": 900,
+    "paddingCss": 92
+  },
+  "cities": [
+    {
+      "id": "chongqing",
+      "name": "重庆",
+      "lng": 106.5516,
+      "lat": 29.563,
+      "px": [
+        432,
+        1566
+      ]
+    },
+    {
+      "id": "hangzhou",
+      "name": "杭州",
+      "lng": 120.1551,
+      "lat": 30.2741,
+      "px": [
+        1914,
+        1477
+      ]
+    },
+    {
+      "id": "beijing",
+      "name": "北京",
+      "lng": 116.4074,
+      "lat": 39.9042,
+      "px": [
+        1506,
+        191
+      ]
+    },
+    {
+      "id": "shanghai",
+      "name": "上海",
+      "lng": 121.4737,
+      "lat": 31.2304,
+      "px": [
+        2058,
+        1355
+      ]
+    },
+    {
+      "id": "weihai",
+      "name": "威海",
+      "lng": 122.1204,
+      "lat": 37.5131,
+      "px": [
+        2128,
+        525
+      ]
+    }
+  ]
+}
